@@ -15,6 +15,7 @@ Edit the defaultsavefolder variable to set your default save folder.
 Usage: 
 ======
 $ python3 grabber.py
+
 [paste URL]
 
 It needs to be run in a terminal, so to launch it from a Linux desktop use the
