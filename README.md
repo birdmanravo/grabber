@@ -7,6 +7,8 @@ It has some simplistic duplicate recognition, and can ignore images posted by th
 user in a thread, and images already downloaded in a thread, allowing it to be run
 multiple times per thread if needed.
 
+Currently untested in Windows.
+
 Configuration:
 =============
 Edit the defaultsavefolder variable to set your default save folder.
